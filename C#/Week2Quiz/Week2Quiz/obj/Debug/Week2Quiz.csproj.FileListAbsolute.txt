@@ -1,0 +1,6 @@
+C:\Users\erau\source\repos\Week2Quiz\Week2Quiz\bin\Debug\Week2Quiz.exe.config
+C:\Users\erau\source\repos\Week2Quiz\Week2Quiz\bin\Debug\Week2Quiz.exe
+C:\Users\erau\source\repos\Week2Quiz\Week2Quiz\bin\Debug\Week2Quiz.pdb
+C:\Users\erau\source\repos\Week2Quiz\Week2Quiz\obj\Debug\Week2Quiz.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\Week2Quiz\Week2Quiz\obj\Debug\Week2Quiz.exe
+C:\Users\erau\source\repos\Week2Quiz\Week2Quiz\obj\Debug\Week2Quiz.pdb

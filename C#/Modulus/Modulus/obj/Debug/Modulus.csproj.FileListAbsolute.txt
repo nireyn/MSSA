@@ -1,0 +1,6 @@
+C:\Users\erau\source\repos\Modulus\Modulus\bin\Debug\Modulus.exe.config
+C:\Users\erau\source\repos\Modulus\Modulus\bin\Debug\Modulus.exe
+C:\Users\erau\source\repos\Modulus\Modulus\bin\Debug\Modulus.pdb
+C:\Users\erau\source\repos\Modulus\Modulus\obj\Debug\Modulus.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\Modulus\Modulus\obj\Debug\Modulus.exe
+C:\Users\erau\source\repos\Modulus\Modulus\obj\Debug\Modulus.pdb

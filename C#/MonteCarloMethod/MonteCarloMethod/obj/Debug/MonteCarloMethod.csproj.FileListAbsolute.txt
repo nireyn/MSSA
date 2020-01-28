@@ -1,0 +1,6 @@
+C:\Users\erau\source\repos\MonteCarloMethod\MonteCarloMethod\bin\Debug\MonteCarloMethod.exe.config
+C:\Users\erau\source\repos\MonteCarloMethod\MonteCarloMethod\bin\Debug\MonteCarloMethod.exe
+C:\Users\erau\source\repos\MonteCarloMethod\MonteCarloMethod\bin\Debug\MonteCarloMethod.pdb
+C:\Users\erau\source\repos\MonteCarloMethod\MonteCarloMethod\obj\Debug\MonteCarloMethod.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\MonteCarloMethod\MonteCarloMethod\obj\Debug\MonteCarloMethod.exe
+C:\Users\erau\source\repos\MonteCarloMethod\MonteCarloMethod\obj\Debug\MonteCarloMethod.pdb

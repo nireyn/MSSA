@@ -1,0 +1,6 @@
+C:\Users\erau\source\repos\Week3Day1\Week3Day1\bin\Debug\Week3Day1.exe.config
+C:\Users\erau\source\repos\Week3Day1\Week3Day1\bin\Debug\Week3Day1.exe
+C:\Users\erau\source\repos\Week3Day1\Week3Day1\bin\Debug\Week3Day1.pdb
+C:\Users\erau\source\repos\Week3Day1\Week3Day1\obj\Debug\Week3Day1.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\Week3Day1\Week3Day1\obj\Debug\Week3Day1.exe
+C:\Users\erau\source\repos\Week3Day1\Week3Day1\obj\Debug\Week3Day1.pdb

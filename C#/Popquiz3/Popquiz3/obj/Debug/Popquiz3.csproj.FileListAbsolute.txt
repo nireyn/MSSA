@@ -1,0 +1,6 @@
+C:\Users\erau\source\repos\Popquiz3\Popquiz3\bin\Debug\Popquiz3.exe.config
+C:\Users\erau\source\repos\Popquiz3\Popquiz3\bin\Debug\Popquiz3.exe
+C:\Users\erau\source\repos\Popquiz3\Popquiz3\bin\Debug\Popquiz3.pdb
+C:\Users\erau\source\repos\Popquiz3\Popquiz3\obj\Debug\Popquiz3.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\Popquiz3\Popquiz3\obj\Debug\Popquiz3.exe
+C:\Users\erau\source\repos\Popquiz3\Popquiz3\obj\Debug\Popquiz3.pdb

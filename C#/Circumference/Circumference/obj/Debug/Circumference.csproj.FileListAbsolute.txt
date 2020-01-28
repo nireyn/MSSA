@@ -1,0 +1,5 @@
+C:\Users\erau\source\repos\Circumference\Circumference\bin\Debug\Circumference.exe.config
+C:\Users\erau\source\repos\Circumference\Circumference\bin\Debug\Circumference.exe
+C:\Users\erau\source\repos\Circumference\Circumference\bin\Debug\Circumference.pdb
+C:\Users\erau\source\repos\Circumference\Circumference\obj\Debug\Circumference.exe
+C:\Users\erau\source\repos\Circumference\Circumference\obj\Debug\Circumference.pdb

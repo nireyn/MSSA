@@ -1,0 +1,6 @@
+C:\Users\erau\source\repos\TupleTest\TupleTest\bin\Debug\TupleTest.exe.config
+C:\Users\erau\source\repos\TupleTest\TupleTest\bin\Debug\TupleTest.exe
+C:\Users\erau\source\repos\TupleTest\TupleTest\bin\Debug\TupleTest.pdb
+C:\Users\erau\source\repos\TupleTest\TupleTest\obj\Debug\TupleTest.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\TupleTest\TupleTest\obj\Debug\TupleTest.exe
+C:\Users\erau\source\repos\TupleTest\TupleTest\obj\Debug\TupleTest.pdb

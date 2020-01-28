@@ -1,0 +1,6 @@
+C:\Users\erau\source\repos\FarmAnimal\FarmAnimal\bin\Debug\FarmAnimal.exe.config
+C:\Users\erau\source\repos\FarmAnimal\FarmAnimal\bin\Debug\FarmAnimal.exe
+C:\Users\erau\source\repos\FarmAnimal\FarmAnimal\bin\Debug\FarmAnimal.pdb
+C:\Users\erau\source\repos\FarmAnimal\FarmAnimal\obj\Debug\FarmAnimal.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\FarmAnimal\FarmAnimal\obj\Debug\FarmAnimal.exe
+C:\Users\erau\source\repos\FarmAnimal\FarmAnimal\obj\Debug\FarmAnimal.pdb

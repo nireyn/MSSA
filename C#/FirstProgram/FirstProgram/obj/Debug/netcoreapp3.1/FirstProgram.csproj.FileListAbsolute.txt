@@ -1,0 +1,11 @@
+C:\Users\erau\source\repos\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.exe
+C:\Users\erau\source\repos\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.deps.json
+C:\Users\erau\source\repos\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.runtimeconfig.json
+C:\Users\erau\source\repos\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.runtimeconfig.dev.json
+C:\Users\erau\source\repos\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.dll
+C:\Users\erau\source\repos\FirstProgram\FirstProgram\bin\Debug\netcoreapp3.1\FirstProgram.pdb
+C:\Users\erau\source\repos\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.AssemblyInfoInputs.cache
+C:\Users\erau\source\repos\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.AssemblyInfo.cs
+C:\Users\erau\source\repos\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.dll
+C:\Users\erau\source\repos\FirstProgram\FirstProgram\obj\Debug\netcoreapp3.1\FirstProgram.pdb
