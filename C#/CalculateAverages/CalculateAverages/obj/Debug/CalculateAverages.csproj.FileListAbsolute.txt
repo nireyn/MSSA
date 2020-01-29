@@ -4,3 +4,9 @@ C:\Users\erau\source\repos\CalculateAverages\CalculateAverages\bin\Debug\Calcula
 C:\Users\erau\source\repos\CalculateAverages\CalculateAverages\obj\Debug\CalculateAverages.csprojAssemblyReference.cache
 C:\Users\erau\source\repos\CalculateAverages\CalculateAverages\obj\Debug\CalculateAverages.exe
 C:\Users\erau\source\repos\CalculateAverages\CalculateAverages\obj\Debug\CalculateAverages.pdb
+C:\Users\erau\MSSA\C#\CalculateAverages\CalculateAverages\bin\Debug\CalculateAverages.exe.config
+C:\Users\erau\MSSA\C#\CalculateAverages\CalculateAverages\bin\Debug\CalculateAverages.exe
+C:\Users\erau\MSSA\C#\CalculateAverages\CalculateAverages\bin\Debug\CalculateAverages.pdb
+C:\Users\erau\MSSA\C#\CalculateAverages\CalculateAverages\obj\Debug\CalculateAverages.csprojAssemblyReference.cache
+C:\Users\erau\MSSA\C#\CalculateAverages\CalculateAverages\obj\Debug\CalculateAverages.exe
+C:\Users\erau\MSSA\C#\CalculateAverages\CalculateAverages\obj\Debug\CalculateAverages.pdb
