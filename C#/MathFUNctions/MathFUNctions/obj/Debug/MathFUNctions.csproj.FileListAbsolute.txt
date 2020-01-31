@@ -1,0 +1,6 @@
+C:\Users\erau\source\repos\MathFUNctions\MathFUNctions\bin\Debug\MathFUNctions.exe.config
+C:\Users\erau\source\repos\MathFUNctions\MathFUNctions\bin\Debug\MathFUNctions.exe
+C:\Users\erau\source\repos\MathFUNctions\MathFUNctions\bin\Debug\MathFUNctions.pdb
+C:\Users\erau\source\repos\MathFUNctions\MathFUNctions\obj\Debug\MathFUNctions.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\MathFUNctions\MathFUNctions\obj\Debug\MathFUNctions.exe
+C:\Users\erau\source\repos\MathFUNctions\MathFUNctions\obj\Debug\MathFUNctions.pdb

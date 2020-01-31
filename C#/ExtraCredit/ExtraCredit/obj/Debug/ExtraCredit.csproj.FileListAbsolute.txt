@@ -1,0 +1,6 @@
+C:\Users\erau\source\repos\ExtraCredit\ExtraCredit\bin\Debug\ExtraCredit.exe.config
+C:\Users\erau\source\repos\ExtraCredit\ExtraCredit\bin\Debug\ExtraCredit.exe
+C:\Users\erau\source\repos\ExtraCredit\ExtraCredit\bin\Debug\ExtraCredit.pdb
+C:\Users\erau\source\repos\ExtraCredit\ExtraCredit\obj\Debug\ExtraCredit.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\ExtraCredit\ExtraCredit\obj\Debug\ExtraCredit.exe
+C:\Users\erau\source\repos\ExtraCredit\ExtraCredit\obj\Debug\ExtraCredit.pdb

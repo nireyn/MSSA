@@ -1,0 +1,5 @@
+C:\Users\erau\source\repos\QuizWeek3\QuizWeek3\bin\Debug\QuizWeek3.exe.config
+C:\Users\erau\source\repos\QuizWeek3\QuizWeek3\bin\Debug\QuizWeek3.exe
+C:\Users\erau\source\repos\QuizWeek3\QuizWeek3\bin\Debug\QuizWeek3.pdb
+C:\Users\erau\source\repos\QuizWeek3\QuizWeek3\obj\Debug\QuizWeek3.exe
+C:\Users\erau\source\repos\QuizWeek3\QuizWeek3\obj\Debug\QuizWeek3.pdb

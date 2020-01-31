@@ -1,0 +1,6 @@
+C:\Users\erau\source\repos\Quiz30Jan\Quiz30Jan\bin\Debug\Quiz30Jan.exe.config
+C:\Users\erau\source\repos\Quiz30Jan\Quiz30Jan\bin\Debug\Quiz30Jan.exe
+C:\Users\erau\source\repos\Quiz30Jan\Quiz30Jan\bin\Debug\Quiz30Jan.pdb
+C:\Users\erau\source\repos\Quiz30Jan\Quiz30Jan\obj\Debug\Quiz30Jan.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\Quiz30Jan\Quiz30Jan\obj\Debug\Quiz30Jan.exe
+C:\Users\erau\source\repos\Quiz30Jan\Quiz30Jan\obj\Debug\Quiz30Jan.pdb
