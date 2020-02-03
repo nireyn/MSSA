@@ -1,0 +1,6 @@
+C:\Users\erau\source\repos\EmployeeClass\EmployeeClass\bin\Debug\EmployeeClass.exe.config
+C:\Users\erau\source\repos\EmployeeClass\EmployeeClass\bin\Debug\EmployeeClass.exe
+C:\Users\erau\source\repos\EmployeeClass\EmployeeClass\bin\Debug\EmployeeClass.pdb
+C:\Users\erau\source\repos\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.exe
+C:\Users\erau\source\repos\EmployeeClass\EmployeeClass\obj\Debug\EmployeeClass.pdb

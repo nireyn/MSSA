@@ -1,0 +1,6 @@
+C:\Users\erau\source\repos\3Feb2020\3Feb2020\bin\Debug\3Feb2020.exe.config
+C:\Users\erau\source\repos\3Feb2020\3Feb2020\bin\Debug\3Feb2020.exe
+C:\Users\erau\source\repos\3Feb2020\3Feb2020\bin\Debug\3Feb2020.pdb
+C:\Users\erau\source\repos\3Feb2020\3Feb2020\obj\Debug\3Feb2020.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\3Feb2020\3Feb2020\obj\Debug\3Feb2020.exe
+C:\Users\erau\source\repos\3Feb2020\3Feb2020\obj\Debug\3Feb2020.pdb

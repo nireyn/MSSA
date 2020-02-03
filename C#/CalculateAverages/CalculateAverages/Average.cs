@@ -28,9 +28,7 @@ namespace CalculateAverages
                 }
                 //escape condition is the user putting in something out of the range.
                 if (Convert.ToDouble(input) > 100 || Convert.ToDouble(input) < 0)
-                {
                     break;
-                }
                 input2 = Convert.ToDouble(input);
                 total += input2;
                 count++;

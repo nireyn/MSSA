@@ -1,0 +1,5 @@
+C:\Users\erau\source\repos\Car\Car\bin\Debug\Car.exe.config
+C:\Users\erau\source\repos\Car\Car\bin\Debug\Car.exe
+C:\Users\erau\source\repos\Car\Car\bin\Debug\Car.pdb
+C:\Users\erau\source\repos\Car\Car\obj\Debug\Car.exe
+C:\Users\erau\source\repos\Car\Car\obj\Debug\Car.pdb
