@@ -1,0 +1,9 @@
+C:\Users\erau\source\repos\5Feb2020\5Feb2020\bin\Debug\5Feb2020.exe.config
+C:\Users\erau\source\repos\5Feb2020\5Feb2020\bin\Debug\5Feb2020.exe
+C:\Users\erau\source\repos\5Feb2020\5Feb2020\bin\Debug\5Feb2020.pdb
+C:\Users\erau\source\repos\5Feb2020\5Feb2020\obj\Debug\5Feb2020.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\5Feb2020\5Feb2020\obj\Debug\_5Feb2020.formPetCareDB.resources
+C:\Users\erau\source\repos\5Feb2020\5Feb2020\obj\Debug\_5Feb2020.Properties.Resources.resources
+C:\Users\erau\source\repos\5Feb2020\5Feb2020\obj\Debug\5Feb2020.csproj.GenerateResource.cache
+C:\Users\erau\source\repos\5Feb2020\5Feb2020\obj\Debug\5Feb2020.exe
+C:\Users\erau\source\repos\5Feb2020\5Feb2020\obj\Debug\5Feb2020.pdb

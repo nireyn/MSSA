@@ -11,12 +11,17 @@ namespace EmployeeClass
         private string name;
         private int hourWorked;
         private const int hourRate = 8;
+        public static int Exemption { get; set; }
         public int totalWorkHours
         {
             get { return hourWorked; }
             set {  hourWorked = value; }
         }
         public string Name { get { return name; } set { name = value; } }
+        public static void DisplayExemption()
+        {
+            Console.WriteLine($"Your exemption is = {Exemption}");
+        }
 
         public void PrintMessage()
         {
@@ -52,8 +57,12 @@ namespace EmployeeClass
         }
         public Employee(string firstName, string lastName)
         {
-            name = firstName +" "+ lastName;
+            name = firstName + " " + lastName;
             hourWorked = 0;
+        }
+        public static void Details()
+        {
+            Console.WriteLine("Static method.");
         }
 
     }
@@ -64,6 +73,7 @@ namespace EmployeeClass
             Employee e1 = new Employee("Shrek");
             Employee e2 = new Employee("Mickey", "Mouse");
             Employee e3 = new Employee("Billy", "Bob");
+            Employee.Exemption = 0;
             e1.totalWorkHours = 400;
             e2.totalWorkHours = 40;
             e3.totalWorkHours = 20;
@@ -72,10 +82,15 @@ namespace EmployeeClass
             int money2 = e3.PayCalculation();
             Console.WriteLine($"{e1.ToString()}");
             Console.WriteLine($"{e1.Name}'s money is {money}.");
+            Employee.DisplayExemption();
             Console.WriteLine($"{e2.ToString()}");
             Console.WriteLine($"{e2.Name}'s money is {bonus}.");
+            Employee.Exemption = 21;
+            Employee.DisplayExemption();
             Console.WriteLine($"{e3.ToString()}");
             Console.WriteLine($"{e3.Name}'s money is {money2}.");
+            Employee.Exemption = 1;
+            Employee.DisplayExemption();
         }
     }
 }

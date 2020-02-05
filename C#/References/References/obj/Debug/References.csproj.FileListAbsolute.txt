@@ -1,0 +1,6 @@
+C:\Users\erau\source\repos\References\References\bin\Debug\References.exe.config
+C:\Users\erau\source\repos\References\References\bin\Debug\References.exe
+C:\Users\erau\source\repos\References\References\bin\Debug\References.pdb
+C:\Users\erau\source\repos\References\References\obj\Debug\References.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\References\References\obj\Debug\References.exe
+C:\Users\erau\source\repos\References\References\obj\Debug\References.pdb
