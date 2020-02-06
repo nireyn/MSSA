@@ -1,0 +1,6 @@
+C:\Users\erau\source\repos\Week4Quiz\Week4Quiz\bin\Debug\Week4Quiz.exe.config
+C:\Users\erau\source\repos\Week4Quiz\Week4Quiz\bin\Debug\Week4Quiz.exe
+C:\Users\erau\source\repos\Week4Quiz\Week4Quiz\bin\Debug\Week4Quiz.pdb
+C:\Users\erau\source\repos\Week4Quiz\Week4Quiz\obj\Debug\Week4Quiz.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\Week4Quiz\Week4Quiz\obj\Debug\Week4Quiz.exe
+C:\Users\erau\source\repos\Week4Quiz\Week4Quiz\obj\Debug\Week4Quiz.pdb
