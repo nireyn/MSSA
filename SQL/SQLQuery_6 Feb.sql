@@ -49,3 +49,37 @@ intersect
 select supplierid 
 from products 
 where unitsinstock > 0
+
+with customer_orders2
+as
+(select customers.CompanyName, count(orders.orderid) numOrders from customers inner join orders on customers.customerid = orders.customerid
+where customers.country = 'usa'
+group by customers.companyname)
+select * from customer_orders order by numOrders desc
+
+with customer2_cte
+as
+(select orders.customerid, count(orders.customerid) totalNumbers
+from orders inner join customers 
+on customers.customerid=orders.customerid 
+where customers.country = 'usa'
+group by orders.customerid) 
+select * from customer2_cte order by totalNumbers desc
+
+with customer_orders2
+as
+(select products.productname,  sum([Order Details].Quantity) products from products
+inner join suppliers on products.SupplierID=suppliers.SupplierID
+inner join [Order Details] on products.ProductID=[Order Details].ProductID
+inner join orders on orders.OrderID=[Order Details].OrderID
+where suppliers.country = 'germany' and orders.ShipCountry='germany'
+group by products.productname)
+select * from customer_orders2 order by products desc
+
+create view customerEmployee2 as 
+select distinct orders.employeeid, orders.customerid, contactname, companyname, lastname, firstname
+from orders
+inner join customers on customers.customerid = orders.CustomerID
+inner join employees on employees.EmployeeID=orders.EmployeeID;
+
+select * from customerEmployee2
