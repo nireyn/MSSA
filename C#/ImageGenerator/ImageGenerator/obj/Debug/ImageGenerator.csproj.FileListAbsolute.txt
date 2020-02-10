@@ -1,0 +1,6 @@
+C:\Users\erau\source\repos\ImageGenerator\ImageGenerator\bin\Debug\ImageGenerator.exe.config
+C:\Users\erau\source\repos\ImageGenerator\ImageGenerator\bin\Debug\ImageGenerator.exe
+C:\Users\erau\source\repos\ImageGenerator\ImageGenerator\bin\Debug\ImageGenerator.pdb
+C:\Users\erau\source\repos\ImageGenerator\ImageGenerator\obj\Debug\ImageGenerator.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\ImageGenerator\ImageGenerator\obj\Debug\ImageGenerator.exe
+C:\Users\erau\source\repos\ImageGenerator\ImageGenerator\obj\Debug\ImageGenerator.pdb
