@@ -11,8 +11,8 @@ namespace _10Feb2020
     {
         static void Main(string[] args)
         {
-
-            Console.WriteLine(FiggleFonts.Colossal.Render("Suck it"));
+            TrollPicture t = new TrollPicture();
+            Console.ForegroundColor = ConsoleColor.White;
             Student tony = new Student(123, 26, "Big Tony", "math");
             tony.showInfor();
             MyStruct n1 = new MyStruct(1, 2, 3);

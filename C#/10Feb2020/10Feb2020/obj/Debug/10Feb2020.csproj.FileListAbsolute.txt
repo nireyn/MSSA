@@ -7,3 +7,12 @@ C:\Users\erau\source\repos\10Feb2020\10Feb2020\obj\Debug\10Feb2020.pdb
 C:\Users\erau\source\repos\10Feb2020\10Feb2020\bin\Debug\Figgle.dll
 C:\Users\erau\source\repos\10Feb2020\10Feb2020\bin\Debug\Figgle.xml
 C:\Users\erau\source\repos\10Feb2020\10Feb2020\obj\Debug\10Feb2020.csproj.CopyComplete
+C:\Users\erau\MSSA\C#\10Feb2020\10Feb2020\bin\Debug\10Feb2020.exe.config
+C:\Users\erau\MSSA\C#\10Feb2020\10Feb2020\bin\Debug\10Feb2020.exe
+C:\Users\erau\MSSA\C#\10Feb2020\10Feb2020\bin\Debug\10Feb2020.pdb
+C:\Users\erau\MSSA\C#\10Feb2020\10Feb2020\bin\Debug\Figgle.dll
+C:\Users\erau\MSSA\C#\10Feb2020\10Feb2020\bin\Debug\Figgle.xml
+C:\Users\erau\MSSA\C#\10Feb2020\10Feb2020\obj\Debug\10Feb2020.csprojAssemblyReference.cache
+C:\Users\erau\MSSA\C#\10Feb2020\10Feb2020\obj\Debug\10Feb2020.csproj.CopyComplete
+C:\Users\erau\MSSA\C#\10Feb2020\10Feb2020\obj\Debug\10Feb2020.exe
+C:\Users\erau\MSSA\C#\10Feb2020\10Feb2020\obj\Debug\10Feb2020.pdb

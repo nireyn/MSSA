@@ -10,6 +10,8 @@ namespace FarmAnimal
     {
         static void Main(string[] args)
         {
+            TrollPicture p = new TrollPicture();
+            Console.ForegroundColor = ConsoleColor.White;
             Pig tom = new Pig();
             tom.Speak();
             Sheep tony = new Sheep();
