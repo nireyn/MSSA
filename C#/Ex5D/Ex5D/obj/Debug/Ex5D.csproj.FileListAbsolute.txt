@@ -1,0 +1,6 @@
+C:\Users\erau\source\repos\Ex5D\Ex5D\bin\Debug\Ex5D.exe.config
+C:\Users\erau\source\repos\Ex5D\Ex5D\bin\Debug\Ex5D.exe
+C:\Users\erau\source\repos\Ex5D\Ex5D\bin\Debug\Ex5D.pdb
+C:\Users\erau\source\repos\Ex5D\Ex5D\obj\Debug\Ex5D.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\Ex5D\Ex5D\obj\Debug\Ex5D.exe
+C:\Users\erau\source\repos\Ex5D\Ex5D\obj\Debug\Ex5D.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz5A_5", "Quiz5A_5\Quiz5A_5.csproj", "{52436038-0764-482C-98A5-AFBD9D081A9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52436038-0764-482C-98A5-AFBD9D081A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52436038-0764-482C-98A5-AFBD9D081A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52436038-0764-482C-98A5-AFBD9D081A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52436038-0764-482C-98A5-AFBD9D081A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40B6EE9A-0E63-4B20-8368-F748444773B5}
+	EndGlobalSection
+EndGlobal

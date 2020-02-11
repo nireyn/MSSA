@@ -1,0 +1,6 @@
+C:\Users\erau\source\repos\Enum\Enum\bin\Debug\Enum.exe.config
+C:\Users\erau\source\repos\Enum\Enum\bin\Debug\Enum.exe
+C:\Users\erau\source\repos\Enum\Enum\bin\Debug\Enum.pdb
+C:\Users\erau\source\repos\Enum\Enum\obj\Debug\Enum.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\Enum\Enum\obj\Debug\Enum.exe
+C:\Users\erau\source\repos\Enum\Enum\obj\Debug\Enum.pdb

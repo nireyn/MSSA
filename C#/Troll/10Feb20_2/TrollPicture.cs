@@ -8,9 +8,10 @@ namespace _10Feb20_2
 {
 	public class TrollPicture
 	{
+		public const int _asciiWidth = 80;
 		public TrollPicture()
 		{
-			Console.ForegroundColor = ConsoleColor.Red;
+			Console.ForegroundColor = ConsoleColor.Green;
 			Console.SetWindowSize(150, 53);
 			//Console.SetBufferSize(200, 60);
 			//Console.SetWindowPosition(0, 0);
@@ -21,13 +22,13 @@ namespace _10Feb20_2
 		}
 
 
-		public const string _remoteImageUrl = "C:\\Users\\erau\\Desktop\\troll.png";
+		public const string _remoteImageUrl = "https://getdrawings.com/free-icon-bw/troll-face-icon-3.png";
 		//private const string _remoteImageUrl = "C:\\Users\\erau\\Desktop\\the finger.jfif";
 		//private const string _remoteImageUrl = "C:\\Users\\erau\\Desktop\\cat.jfif";
 		//private const string _remoteImageUrl = "https://media.tenor.com/images/8eeb2bb588da089d054352bcaa849513/tenor.png";
 
 
-		public const int _asciiWidth = 125;
+
 
 		public static string[] _asciiChars = { "#", "#", "@", "%", "=", "+", "*", ":", "-", ".", " " };
 

@@ -1,0 +1,6 @@
+C:\Users\erau\source\repos\Quiz5A_2\Quiz5A_2\bin\Debug\Quiz5A_2.exe.config
+C:\Users\erau\source\repos\Quiz5A_2\Quiz5A_2\bin\Debug\Quiz5A_2.exe
+C:\Users\erau\source\repos\Quiz5A_2\Quiz5A_2\bin\Debug\Quiz5A_2.pdb
+C:\Users\erau\source\repos\Quiz5A_2\Quiz5A_2\obj\Debug\Quiz5A_2.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\Quiz5A_2\Quiz5A_2\obj\Debug\Quiz5A_2.exe
+C:\Users\erau\source\repos\Quiz5A_2\Quiz5A_2\obj\Debug\Quiz5A_2.pdb
