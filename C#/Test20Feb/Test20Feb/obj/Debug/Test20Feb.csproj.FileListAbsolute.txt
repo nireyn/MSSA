@@ -1,0 +1,6 @@
+C:\Users\erau\source\repos\Test20Feb\Test20Feb\bin\Debug\Test20Feb.exe.config
+C:\Users\erau\source\repos\Test20Feb\Test20Feb\bin\Debug\Test20Feb.exe
+C:\Users\erau\source\repos\Test20Feb\Test20Feb\bin\Debug\Test20Feb.pdb
+C:\Users\erau\source\repos\Test20Feb\Test20Feb\obj\Debug\Test20Feb.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\Test20Feb\Test20Feb\obj\Debug\Test20Feb.exe
+C:\Users\erau\source\repos\Test20Feb\Test20Feb\obj\Debug\Test20Feb.pdb

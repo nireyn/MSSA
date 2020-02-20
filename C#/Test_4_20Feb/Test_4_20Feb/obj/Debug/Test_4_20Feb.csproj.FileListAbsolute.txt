@@ -1,0 +1,6 @@
+C:\Users\erau\source\repos\Test_4_20Feb\Test_4_20Feb\bin\Debug\Test_4_20Feb.exe.config
+C:\Users\erau\source\repos\Test_4_20Feb\Test_4_20Feb\bin\Debug\Test_4_20Feb.exe
+C:\Users\erau\source\repos\Test_4_20Feb\Test_4_20Feb\bin\Debug\Test_4_20Feb.pdb
+C:\Users\erau\source\repos\Test_4_20Feb\Test_4_20Feb\obj\Debug\Test_4_20Feb.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\Test_4_20Feb\Test_4_20Feb\obj\Debug\Test_4_20Feb.exe
+C:\Users\erau\source\repos\Test_4_20Feb\Test_4_20Feb\obj\Debug\Test_4_20Feb.pdb
